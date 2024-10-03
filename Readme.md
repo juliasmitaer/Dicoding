@@ -8,7 +8,7 @@ pipenv shell
 
 
 ==========================================
-Run steamlit app
+Run Streamlit app
 ==========================================
 streamlit run Dashboard/dashboard.py
 
